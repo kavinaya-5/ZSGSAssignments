@@ -1,4 +1,5 @@
-//3. Create a Java application to manage employees in a company. Define a base class Employee with a method calculateSalary(). Then create two subclasses FullTimeEmployee and PartTimeEmployee that override calculateSalary() method based on their working type.
+//3. Create a Java application to manage employees in a company. Define a base class Employee with a method calculateSalary(). 
+Then create two subclasses FullTimeEmployee and PartTimeEmployee that override calculateSalary() method based on their working type.
 abstract class Employee
 {
     abstract double calculateSalary();
