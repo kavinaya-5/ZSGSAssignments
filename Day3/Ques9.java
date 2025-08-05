@@ -179,7 +179,12 @@ public class Ques9
     }
 }
 
-
+/*1. Design a Java program to maintain hospital medical records.
+Create a base class named MedicalRecord that includes common attributes:
+--- recordId, patientName, dateOfVisit, and diagnosis.
+--- inputRecordDetails() – to input common record information.
+--- override displayRecord() – to display the common record details.
+*/
 
 
 
